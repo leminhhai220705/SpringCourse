@@ -1,0 +1,7 @@
+Lesson 1: Cách chạy ứng dụng với SpringBoot
+- Để chạy được ứng dụng web SpringBoot, ta cần thêm câu lệnh
+        "<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-web</artifactId>
+		</dependency>"
+vào trong file document.txt, vì đây là câu lệnh giúp cho java spring nhận biết được ứng dụng web chạy bằng springboot framework
